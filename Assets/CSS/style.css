@@ -12,7 +12,7 @@
 
 /*-----------------------------------*\
   #CUSTOM PROPERTY
-\*-----------------------------------*/
+
 
 :root {
 
@@ -36,7 +36,7 @@
     /* text color */
     --text-white: hsla(0, 0%, 100%, 1);
     --text-gainsboro: hsla(0, 0%, 87%, 1);
-    --text-champagne-pink: hsla(23, 61%, 86%, 1);
+    --text-champagne-pink: rgb(232, 221, 214);
     --text-purple: hsla(267, 100%, 63%, 1);
   
     /* border color */
