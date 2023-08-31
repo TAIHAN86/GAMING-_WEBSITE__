@@ -11,7 +11,7 @@ A game website made for students, by students. We offer a wide range of games wi
 To learn how to fork [Refer to the wiki](https://github.com/lioxryt/lioxryt.github.io/wiki/Forking)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flioxryt%2Flioxryt.github.io&count_bg=%23E2B726&title_bg=%23FFDD85&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Join us on Discord](/assets/Image/pubg%20poster.jpg)](https://discord.gg/Qf5wmbGzk9)
+[![Join us on Discord](/assets/Image/hero-banner.png)](https://discord.gg/Qf5wmbGzk9)
 
 ### Credits
 
